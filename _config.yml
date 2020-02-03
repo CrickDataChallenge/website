@@ -5,3 +5,5 @@ title:
 description: Hackathon-style event fostering collaborations between wet lab biologists and data scientists. Hosted at the Francis Crick Institute.
 logo: images/dataChallengeLogo-01.png
 show_downloads: false
+gems:
+  - jekyll-octicons
