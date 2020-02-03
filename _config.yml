@@ -6,3 +6,5 @@ logo: images/dataChallengeLogo-01.png
 show_downloads: false
 gems:
   - jekyll-octicons
+plugins:
+  - jekyll-google-photos
