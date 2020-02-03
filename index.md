@@ -19,8 +19,6 @@ All attendees at our events must adhere to our [code of conduct](code-of-conduct
 
 >"I can’t thank my team enough for all the effort they put into working on our project. It’s unbelievable how much we achieved in just two days. Now we can start focusing on the results, rather than the data processing.”
 
---
+---
 
-### Photos from past events
 
-{% google_photos https://photos.app.goo.gl/hbKB1jPFVw4ieahm9 100 %}
