@@ -8,13 +8,13 @@ All attendees at our events must adhere to our [code of conduct](code-of-conduct
 
 ---
 
-# Thoughts from previous participants...
+### Thoughts from previous participants...
  
 
 *Lucia Prieto-Godino, Group leader*
 
->“The Crick Data Challenge is a great initiative; as soon as I heard about it I decided to join and encouraged my students to >do so. We are lucky to work in such a multidisciplinary environment at the crick. Each discipline has classical ways to >analyse data and we often do not go beyond these. However, by looking at our data from a different perspective we might gain >novel biological insights.”
+>“The Crick Data Challenge is a great initiative; as soon as I heard about it I decided to join and encouraged my students to do so. We are lucky to work in such a multidisciplinary environment at the crick. Each discipline has classical ways to analyse data and we often do not go beyond these. However, by looking at our data from a different perspective we might gain novel biological insights.”
 
 *Febe van Maldegem, Downward lab*
 
->"I can’t thank my team enough for all the effort they put into working on our project. It’s unbelievable how much we achieved >in just two days. Now we can start focusing on the results, rather than the data processing.”
+>"I can’t thank my team enough for all the effort they put into working on our project. It’s unbelievable how much we achieved in just two days. Now we can start focusing on the results, rather than the data processing.”
