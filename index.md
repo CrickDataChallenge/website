@@ -8,6 +8,8 @@ All attendees at our events must adhere to our [code of conduct](code-of-conduct
 
 For more information about how the event works, please check out our introductory slides from [Data Challenge #2](https://docs.google.com/presentation/d/1Ey5_b0nZZoQQO_7Mdljbz7ckRt1TbFOYxzhY6hWwFMc/edit?usp=sharing).
 
+![collage of past events](images/image1.png)
+
 ---
 
 ### Thoughts from previous participants...
