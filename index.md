@@ -2,9 +2,11 @@
 
 Crick Data Challenge #3 will be coming your way at the end of May, so [put the date in your diary!](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200527T160000Z%2F20200529T173000Z&text=Crick%20Data%20Challenge&location=Francis%20Crick%20Institute&details=Hackathon-style%20event%20fostering%20collaborations%20between%20wet%20lab%20biologists%20and%20data%20scientists.%20Hosted%20at%20the%20Francis%20Crick%20Institute.) {% octicon calendar %}
 
-Sign up is not yet open.
+Sign up is now open! [Register](https://forms.gle/vcQdBxdjnQYKzS3J9) as a participant and if you like, propose a project!
 
 For more information about how the event works, please check out our introductory slides from [Data Challenge #2](https://docs.google.com/presentation/d/1Ey5_b0nZZoQQO_7Mdljbz7ckRt1TbFOYxzhY6hWwFMc/edit?usp=sharing).
+
+If you have any questions at all, please email data-challenge@crick.ac.uk and we will get back to you.
 
 All attendees at our events must adhere to our [code of conduct](code-of-conduct.md).
 
