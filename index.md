@@ -4,7 +4,7 @@ Crick Data Challenge #3 will be coming your way at the end of May, so [put the d
 
 Sign up is now open! [Register](https://forms.gle/vcQdBxdjnQYKzS3J9) as a participant and if you like, propose a project!
 
-# How does this all work?
+#### How does this all work?
 
 In the run up to the 17th May Crick scientists are encouraged to submit projects to us. Examples of previously successful projects include:
 * Creation of a program with a user interface to design antisense oligonucleotides.
