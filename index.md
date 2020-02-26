@@ -6,7 +6,7 @@ Sign up is now open! [Register](https://forms.gle/vcQdBxdjnQYKzS3J9) as a partic
 
 #### How does this all work?
 
-In the run up to the 17th May Crick scientists are encouraged to submit projects to us. Examples of previously successful projects include:
+In the run up to the 27th May Crick scientists are encouraged to submit projects to us. Examples of previously successful projects include:
 * Creation of a program with a user interface to design antisense oligonucleotides.
 * Integration of huge amounts of cancer RNA-Seq data in order to identify genes that could be therapeutic targets.
 * Design of a method to categorise and classify spherical cell images from a magnetic tweezer microscope system.
