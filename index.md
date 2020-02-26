@@ -4,6 +4,17 @@ Crick Data Challenge #3 will be coming your way at the end of May, so [put the d
 
 Sign up is now open! [Register](https://forms.gle/vcQdBxdjnQYKzS3J9) as a participant and if you like, propose a project!
 
+# How does this all work?
+
+In the run up to the 17th May Crick scientists are encouraged to submit projects to us. Examples of previously successful projects include:
+* Creation of a program with a user interface to design antisense oligonucleotides.
+* Integration of huge amounts of cancer RNA-Seq data in order to identify genes that could be therapeutic targets.
+* Design of a method to categorise and classify spherical cell images from a magnetic tweezer microscope system.
+* Investigation of Drosophila fruit preferences using chemical, behavioural and electrophysiological data sets.
+* Implementation of a streamlined pipeline for analysing highly complex, multi-dimensional imaging data.
+
+We select 4-5 of these projects. On the afternoon of Wednesday 27th May, project leads will pitch the projects to the participants. In the past we have kept projects entirely secret until this time, but this time around we will let you know the themes of the different projects to help you decide if you want to come. You then have overnight to think about which team you want to join. The next morning you will form teams and work for two days on the project. On Friday afternoon, your group will present a short presentation about what you have achieved/learnt!
+
 For more information about how the event works, please check out our introductory slides from [Data Challenge #2](https://docs.google.com/presentation/d/1Ey5_b0nZZoQQO_7Mdljbz7ckRt1TbFOYxzhY6hWwFMc/edit?usp=sharing).
 
 If you have any questions at all, please email data-challenge@crick.ac.uk and we will get back to you.
