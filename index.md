@@ -4,6 +4,16 @@ Crick Data Challenge #3 will be coming your way at the end of October, so [put t
 
 Sign up is now open! [Register](https://forms.gle/W6G61BdDvWRTvTBz5) as a participant and if you like, propose a project!
 
+#### Confirmed events
+
+*Github tutorial with Mickael Escudero - Monday 19th October*
+
+Learn how to manage your Data Challenge project with Github!
+
+*Keynote lecture - Friday 23rd October*
+
+Keynote lecture with Professor Chris Holmes - Programme Director for Health and Medical Sciences at the Alan Turing Institute
+
 #### How does this all work?
 
 In the run up to the 21st October Crick scientists are encouraged to submit projects to us. Examples of previously successful projects include:
