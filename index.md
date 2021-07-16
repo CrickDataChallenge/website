@@ -1,29 +1,33 @@
-## Our next event is the 21st-23rd October 2020
+## Our next event is the 6-8th October 2021
 
-Crick Data Challenge #3 will be coming your way at the end of October, so [put the date in your diary!](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200527T160000Z%2F20200529T173000Z&text=Crick%20Data%20Challenge&location=Francis%20Crick%20Institute&details=Hackathon-style%20event%20fostering%20collaborations%20between%20wet%20lab%20biologists%20and%20data%20scientists.%20Hosted%20at%20the%20Francis%20Crick%20Institute.) {% octicon calendar %}
+Crick Data Challenge #4 will be coming your way at the beginning of October, so [put the date in your diary!](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200527T160000Z%2F20200529T173000Z&text=Crick%20Data%20Challenge&location=Francis%20Crick%20Institute&details=Hackathon-style%20event%20fostering%20collaborations%20between%20wet%20lab%20biologists%20and%20data%20scientists.%20Hosted%20at%20the%20Francis%20Crick%20Institute.) {% octicon calendar %}
 
-Sign up is now open! [Register](https://forms.gle/W6G61BdDvWRTvTBz5) as a participant and if you like, propose a project!
+Sign up for externals will open soon, and registration for Crick scientists is available on the intranet.
 
 #### Confirmed events
 
-*Github tutorial with Mickael Escudero - Monday 19th October*
+*Github tutorial with Mickael Escudero - Date TBC *
 
 Learn how to manage your Data Challenge project with Github!
 
-*Keynote lecture - Friday 23rd October*
+*Keynote lecture - Friday 8th October*
 
-Keynote lecture with Professor Chris Holmes - Programme Director for Health and Medical Sciences at the Alan Turing Institute
+Keynote lecture from a leading data scientist
 
 #### How does this all work?
 
-In the run up to the 21st October Crick scientists are encouraged to submit projects to us. Examples of previously successful projects include:
+In the run up to the 6th of October Crick scientists were encouraged to submit projects to us (we now have our full quota for October, but please [get in touch](mailto:data-challenge@crick.ac.uk) if you have ideas for projects at future events!). 
+
+Examples of previously successful projects include:
 * Creation of a program with a user interface to design antisense oligonucleotides.
 * Integration of huge amounts of cancer RNA-Seq data in order to identify genes that could be therapeutic targets.
 * Design of a method to categorise and classify spherical cell images from a magnetic tweezer microscope system.
 * Investigation of Drosophila fruit preferences using chemical, behavioural and electrophysiological data sets.
 * Implementation of a streamlined pipeline for analysing highly complex, multi-dimensional imaging data.
 
-We select 4-5 of these projects. On the morning of Wednesday 21st October, project leads will pitch the projects to the participants. In the past we have kept projects entirely secret until this time, but this time around we will let you know the themes of the different projects to help you decide if you want to come. You then have a chance to think about which team you want to join. That afternoon you will form teams and work until Friday on the project. On Friday afternoon, your group will present a short presentation about what you have achieved/learnt!
+Work from previous data challenges has even been published!
+
+Four projects have been selected for DC4, broad overviews will be shared with registered participants before the event. At the beginning of the event, project leads will pitch their projects to the participants on Wednesday October 6th. Participants then have a chance to think about which team you want to join. That afternoon, participants will form teams and work until Friday on the project. On Friday afternoon, each group will present a short presentation about what they have achieved/learnt!
 
 For more information about how the event works, please check out our introductory slides from [Data Challenge #2](https://docs.google.com/presentation/d/1Ey5_b0nZZoQQO_7Mdljbz7ckRt1TbFOYxzhY6hWwFMc/edit?usp=sharing).
 
