@@ -6,7 +6,7 @@ Sign up for externals will open soon, and registration for Crick scientists is a
 
 #### Confirmed events
 
-* *Github tutorial with Mickael Escudero (Date TBC)* - Prior to the event, learn how to manage your Data Challenge project with Github!
+* *Github tutorial with Mickael Escudero (28th September at 2pm)* - Learn how to manage your Data Challenge project with Github!
 
 * *Keynote lecture* - Friday 8th October - Keynote lecture from a leading data scientist (details to follow soon!)
 
