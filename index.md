@@ -12,7 +12,7 @@ Sign up for externals will open soon, and registration for Crick scientists is a
 
 #### How does this all work?
 
-In the run up to the 6th of October Crick scientists were encouraged to submit projects to us (we now have our full quota for October, but please [get in touch](mailto:data-challenge@crick.ac.uk) if you have ideas for projects at future events!). 
+In the run up to the 6th of October Crick scientists were encouraged to submit projects to us (we now have our full quota for October, but please [get in touch](mailto:challenge-data@crick.ac.uk) if you have ideas for projects at future events!). 
 
 Examples of previously successful projects include:
 * Creation of a program with a user interface to design antisense oligonucleotides.
@@ -27,7 +27,7 @@ Four projects have been selected for DC4, broad overviews will be shared with re
 
 For more information about how the event works, please check out our introductory slides from [Data Challenge #2](https://docs.google.com/presentation/d/1Ey5_b0nZZoQQO_7Mdljbz7ckRt1TbFOYxzhY6hWwFMc/edit?usp=sharing).
 
-If you have any questions at all, please email [data-challenge@crick.ac.uk](mailto:data-challenge@crick.ac.uk) and we will get back to you.
+If you have any questions at all, please email [challenge-data@crick.ac.uk](mailto:challenge-data@crick.ac.uk) and we will get back to you.
 
 All attendees at our events must adhere to our [code of conduct](code-of-conduct.md).
 
