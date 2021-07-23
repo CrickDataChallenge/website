@@ -8,3 +8,6 @@ gems:
   - jekyll-octicons
 plugins:
   - jekyll-google-photos
+classes:
+  - wide
+  
