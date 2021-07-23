@@ -1,18 +1,14 @@
 ## Our next event is the 6-8th October 2021
 
-Crick Data Challenge #4 will be coming your way at the beginning of October, so [put the date in your diary!](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200527T160000Z%2F20200529T173000Z&text=Crick%20Data%20Challenge&location=Francis%20Crick%20Institute&details=Hackathon-style%20event%20fostering%20collaborations%20between%20wet%20lab%20biologists%20and%20data%20scientists.%20Hosted%20at%20the%20Francis%20Crick%20Institute.) {% octicon calendar %}
+Crick Data Challenge #4 will be coming your way at the beginning of October, so [put the date in your diary!](http://www.google.com/calendar/event?action=TEMPLATE&dates=20211006T090000Z%2F20211008T173000Z&text=Crick%20Data%20Challenge&location=Francis%20Crick%20Institute&details=Hackathon-style%20event%20fostering%20collaborations%20between%20wet%20lab%20biologists%20and%20data%20scientists.%20Hosted%20at%20the%20Francis%20Crick%20Institute.)  (exact times TBC) {% octicon calendar %}
 
-Sign up for externals will open soon, and registration for Crick scientists is available on the intranet.
+Sign up for externals will open soon, and registration for Crick scientists is available [on the intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-sign-form) (Crick staff only).
 
 #### Confirmed events
 
-*Github tutorial with Mickael Escudero - Date TBC *
+* *Github tutorial with Mickael Escudero (Date TBC)* - Prior to the event, learn how to manage your Data Challenge project with Github!
 
-Learn how to manage your Data Challenge project with Github!
-
-*Keynote lecture - Friday 8th October*
-
-Keynote lecture from a leading data scientist
+* *Keynote lecture* - Friday 8th October - Keynote lecture from a leading data scientist (details to follow soon!)
 
 #### How does this all work?
 
@@ -25,7 +21,7 @@ Examples of previously successful projects include:
 * Investigation of Drosophila fruit preferences using chemical, behavioural and electrophysiological data sets.
 * Implementation of a streamlined pipeline for analysing highly complex, multi-dimensional imaging data.
 
-Work from previous data challenges has even been published!
+Work from previous data challenges has even been published, for example [this](https://www.researchsquare.com/article/rs-301541/v1) from Febe van Maldegem and [this](https://www.frontiersin.org/articles/10.3389/fimmu.2021.645446/full) from Katalin Wilkinson, project leaders from the first and second data challenges respectively. Many more projects have seeded ongoing collaborations and we expect to see more publications in the future!
 
 Four projects have been selected for DC4, broad overviews will be shared with registered participants before the event. At the beginning of the event, project leads will pitch their projects to the participants on Wednesday October 6th. Participants then have a chance to think about which team you want to join. That afternoon, participants will form teams and work until Friday on the project. On Friday afternoon, each group will present a short presentation about what they have achieved/learnt!
 
