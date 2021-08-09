@@ -2,7 +2,7 @@
 
 Crick Data Challenge #4 will be coming your way at the beginning of October, so [put the date in your diary!](http://www.google.com/calendar/event?action=TEMPLATE&dates=20211006T090000Z%2F20211008T173000Z&text=Crick%20Data%20Challenge&location=Francis%20Crick%20Institute&details=Hackathon-style%20event%20fostering%20collaborations%20between%20wet%20lab%20biologists%20and%20data%20scientists.%20Hosted%20at%20the%20Francis%20Crick%20Institute.)  (exact times TBC) {% octicon calendar %}
 
-Sign up for externals will open soon, and registration for Crick scientists is available [on the intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-sign-form) (Crick staff only).
+Sign up for externals is via [this Google form](https://forms.gle/1iV2oGbvWZkVmYZw9), and registration for Crick scientists is available [on the intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-sign-form) (Crick staff only).
 
 #### Confirmed events
 
