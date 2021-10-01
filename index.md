@@ -1,14 +1,14 @@
 ## Our next event is the 6-8th October 2021
 
-Crick Data Challenge #4 will be coming your way at the beginning of October, so [put the date in your diary!](http://www.google.com/calendar/event?action=TEMPLATE&dates=20211006T090000Z%2F20211008T173000Z&text=Crick%20Data%20Challenge&location=Francis%20Crick%20Institute&details=Hackathon-style%20event%20fostering%20collaborations%20between%20wet%20lab%20biologists%20and%20data%20scientists.%20Hosted%20at%20the%20Francis%20Crick%20Institute.)  (exact times TBC) {% octicon calendar %}
+Crick Data Challenge #4 will be coming your way at the beginning of October, so [put the date in your diary!](http://www.google.com/calendar/event?action=TEMPLATE&dates=20211006T090000Z%2F20211008T173000Z&text=Crick%20Data%20Challenge&location=Francis%20Crick%20Institute&details=Hackathon-style%20event%20fostering%20collaborations%20between%20wet%20lab%20biologists%20and%20data%20scientists.%20Hosted%20at%20the%20Francis%20Crick%20Institute.) {% octicon calendar %}
 
-Sign up for externals is via [this Google form](https://forms.gle/1iV2oGbvWZkVmYZw9), and registration for Crick scientists is available [on the intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-sign-form) (Crick staff only).
+Sign up for externals has closed, and registration for Crick scientists is available [on the intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-sign-form) (Crick staff only).
 
 #### Confirmed events
 
-* *Github tutorial with Mickael Escudero (4th October at 2pm)* - Learn how to manage your Data Challenge project with Github!
+* *Github tutorial with Mickael Escudero (Monday 4th October at 2pm)* - Learn how to manage your Data Challenge project with Github! Link [here](https://crick.zoom.us/j/67857417787?pwd=SnNFSk5iQm5sOC9vQStiMFBkUkR3Zz09)
 
-* *Keynote lecture* - Friday 8th October - Keynote lecture from a leading data scientist (details to follow soon!)
+* *Keynote lecture* - Friday 8th October at 5pm - Keynote lecture from Professor Ben MacArthur (Alan Turing Institute and University of Southampton) on "Machine Learning of Stem Cell Identities"
 
 #### How does this all work?
 
