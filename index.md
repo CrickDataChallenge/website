@@ -6,7 +6,7 @@ Sign up for externals is via [this Google form](https://forms.gle/1iV2oGbvWZkVmY
 
 #### Confirmed events
 
-* *Github tutorial with Mickael Escudero (28th September at 2pm)* - Learn how to manage your Data Challenge project with Github!
+* *Github tutorial with Mickael Escudero (4th October at 2pm)* - Learn how to manage your Data Challenge project with Github!
 
 * *Keynote lecture* - Friday 8th October - Keynote lecture from a leading data scientist (details to follow soon!)
 
