@@ -8,7 +8,7 @@ Sign up for externals has closed, and registration for Crick scientists is avail
 
 * *Github tutorial with Mickael Escudero (Monday 4th October at 2pm)* - Learn how to manage your Data Challenge project with Github! Link [here](https://crick.zoom.us/j/67857417787?pwd=SnNFSk5iQm5sOC9vQStiMFBkUkR3Zz09)
 
-* *Keynote lecture* - Friday 8th October at 5pm - *Professor Ben MacArthur* (Alan Turing Institute and University of Southampton) on "Machine Learning of Stem Cell Identities"
+* *Keynote lecture* - Friday 8th October at 5pm - *[Professor Ben MacArthur](https://www.turing.ac.uk/people/researchers/ben-macarthur)* (Alan Turing Institute and University of Southampton) on "Machine Learning of Stem Cell Identities"
 
 #### How does this all work?
 
