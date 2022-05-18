@@ -1,18 +1,13 @@
-## Our next event is the 6-8th October 2021
+## Our next event is in October 2022
 
-Crick Data Challenge #4 will be coming your way at the beginning of October, so [put the date in your diary!](http://www.google.com/calendar/event?action=TEMPLATE&dates=20211006T090000Z%2F20211008T173000Z&text=Crick%20Data%20Challenge&location=Francis%20Crick%20Institute&details=Hackathon-style%20event%20fostering%20collaborations%20between%20wet%20lab%20biologists%20and%20data%20scientists.%20Hosted%20at%20the%20Francis%20Crick%20Institute.) {% octicon calendar %}
+Crick Data Challenge #5 will be coming your way this October, exact dates TBC
 
-Sign up for externals has closed, and registration for Crick scientists is available [on the intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-sign-form) (Crick staff only).
+Registration for Crick scientists will be available on the Crick intranet soon.
 
-#### Confirmed events
-
-* *Github tutorial with Mickael Escudero (Monday 4th October at 2pm)* - Learn how to manage your Data Challenge project with Github! Link [here](https://crick.zoom.us/j/67857417787?pwd=SnNFSk5iQm5sOC9vQStiMFBkUkR3Zz09)
-
-* *Keynote lecture* - Friday 8th October at 5pm - *[Professor Ben MacArthur](https://www.turing.ac.uk/people/researchers/ben-macarthur)* (Alan Turing Institute and University of Southampton) on "Machine Learning of Stem Cell Identities"
 
 #### How does this all work?
 
-In the run up to the 6th of October Crick scientists were encouraged to submit projects to us (we now have our full quota for October, but please [get in touch](mailto:challenge-data@crick.ac.uk) if you have ideas for projects at future events!). 
+In the run up to the event in October Crick scientists are encouraged to submit projects to us, please [get in touch](mailto:challenge-data@crick.ac.uk) if you have ideas for projects at this or future events. 
 
 Examples of previously successful projects include:
 * Creation of a program with a user interface to design antisense oligonucleotides.
