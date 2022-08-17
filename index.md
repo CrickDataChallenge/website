@@ -17,7 +17,7 @@ Examples of previously successful projects include:
 * Implementation of a streamlined pipeline for analysing highly complex, multi-dimensional imaging data.
 
 Work from previous data challenges has been published, for example 
-* [Characterisation of tumour immune microenvironment remodelling following oncogene inhibition in preclinical studies using an optimised imaging mass cytometry workflow](https://www.researchsquare.com/article/rs-301541/v1) from Febe van Maldegem and Karishma Valand's project in the first Data Challenge. 
+* [Characterisation of tumour microenvironment remodelling following oncogene inhibition in preclinical studies with imaging mass cytometry](https://www.nature.com/articles/s41467-021-26214-x) from Febe van Maldegem and Karishma Valand's project in the first Data Challenge. 
 * [Antiretroviral Treatment-Induced Decrease in Immune Activation Contributes to Reduced Susceptibility to Tuberculosis in HIV-1/Mtb Co-infected Persons](https://www.frontiersin.org/articles/10.3389/fimmu.2021.645446/full) from Katalin Wilkinson's project in the second Data Challenge.
 * [OxoScan-MS: Oxonium ion scanning mass spectrometry facilitates plasma glycoproteomics in large scale](https://www.biorxiv.org/content/10.1101/2022.06.01.494393v1) from Matthew White and Christoph Messner's project in the third Data Challenge.
 
