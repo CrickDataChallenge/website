@@ -1,18 +1,18 @@
 ## Our next event will be happening in Autumn 2023, check back here for updates!
-[Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event. 
+[Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for projects. 
 
 ## Our last event was 12-14th October 2022
 
-Crick Data Challenge #5 took place on 12-14th October 2022, happening in person at the Francis Crick Institute.
+Crick Data Challenge #5 took place on 12-14th October 2022, in person at the Francis Crick Institute.
 
 <!--- Registration for Crick scientists is [available on the Crick intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-2022) (Crick IT account required). External participants can register their interest to participate at [this link](https://forms.office.com/r/CHFWM2FB1q).) --->
 
 
 #### How does this all work?
 
-In the run up to the event in October, Crick scientists were encouraged to submit projects to us, please [get in touch](mailto:challenge-data@crick.ac.uk) if you have ideas for projects at this or future events. 
+In the run up to the event in October, Crick scientists were encouraged to submit projects to us, and five projects were selected from a range of different Crick research groups. 
 
-Examples of previously successful projects include:
+Examples of previous projects include:
 * Creation of a program with a user interface to design antisense oligonucleotides.
 * Integration of huge amounts of cancer RNA-Seq data in order to identify genes that could be therapeutic targets.
 * Design of a method to categorise and classify spherical cell images from a magnetic tweezer microscope system.
