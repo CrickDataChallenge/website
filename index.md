@@ -1,13 +1,16 @@
-## Our next event is 12-14th October 2022
+## Our next event will be happening in Autumn 2023, check back here for updates!
+[Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event. 
 
-Crick Data Challenge #5 will be coming your way on 12-14th October 2022, happening in person at the Francis Crick Institute.
+## Our last event was 12-14th October 2022
 
-Registration for Crick scientists is [available on the Crick intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-2022) (Crick IT account required). External participants can register their interest to participate at [this link](https://forms.office.com/r/CHFWM2FB1q).
+Crick Data Challenge #5 took place on 12-14th October 2022, happening in person at the Francis Crick Institute.
+
+<!--- Registration for Crick scientists is [available on the Crick intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-2022) (Crick IT account required). External participants can register their interest to participate at [this link](https://forms.office.com/r/CHFWM2FB1q).) --->
 
 
 #### How does this all work?
 
-In the run up to the event in October, Crick scientists are encouraged to submit projects to us (deadline end of August), please [get in touch](mailto:challenge-data@crick.ac.uk) if you have ideas for projects at this or future events. 
+In the run up to the event in October, Crick scientists were encouraged to submit projects to us, please [get in touch](mailto:challenge-data@crick.ac.uk) if you have ideas for projects at this or future events. 
 
 Examples of previously successful projects include:
 * Creation of a program with a user interface to design antisense oligonucleotides.
