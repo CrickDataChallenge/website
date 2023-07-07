@@ -16,6 +16,9 @@ Crick Data Challenge #6 will take place on 11-13th October 2023, in person at th
 5. Teams go to their private space to collaborate and hack away! Every day ends with a social activity. 
 6. On day 3, each group gives a short wrap-up presentation on their approach to solving the problem and what they learned.
 
+The video below will give you a glimpse of what the Crick Data Challenge is about!
+[![Crick Data Cahallenge](https://img.youtube.com/vi/VzwoGWMCY-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=VzwoGWMCY-U)
+
 <!-- In the run up to the event in October, Crick scientists are encouraged to submit projects to us, and five projects are selected from a range of different Crick research groups.  -->
 
 Examples of previous projects include:
@@ -30,13 +33,11 @@ Examples of previous projects include:
 
 Crick Data Challenge projects have contributed to scientific papers: 
 
-Van Maldegem, Febe, et al., (2021). Characterisation of tumour microenvironment remodelling following oncogene inhibition in preclinical studies with imaging mass cytometry. [Nature Communications](https://www.nature.com/articles/s41467-021-26214-x) (Crick Data Challenge #1) 
-Wilkinson, K. A., et al., (2021). Antiretroviral Treatment-Induced Decrease in Immune Activation Contributes to Reduced Susceptibility to Tuberculosis in HIV-1/Mtb Co-infected Persons. [Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2021.645446/full) (Crick Data Challenge #2)
-White, M.E., et al., (2022). OxoScan-MS: Oxonium ion scanning mass spectrometry facilitates plasma glycoproteomics in large scale. [Nature Biomedical Engineering]((https://www.biorxiv.org/content/10.1101/2022.06.01.494393v1))  (Crick Data Challenge #3)
+* Van Maldegem, Febe, et al., (2021). Characterisation of tumour microenvironment remodelling following oncogene inhibition in preclinical studies with imaging mass cytometry. [Nature Communications](https://www.nature.com/articles/s41467-021-26214-x) (Crick Data Challenge #1) 
+* Wilkinson, K. A., et al., (2021). Antiretroviral Treatment-Induced Decrease in Immune Activation Contributes to Reduced Susceptibility to Tuberculosis in HIV-1/Mtb Co-infected Persons. [Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2021.645446/full) (Crick Data Challenge #2)
+* White, M.E., et al., (2022). OxoScan-MS: Oxonium ion scanning mass spectrometry facilitates plasma glycoproteomics in large scale. [Nature Biomedical Engineering]((https://www.biorxiv.org/content/10.1101/2022.06.01.494393v1))  (Crick Data Challenge #3)
 
 Many more projects have seeded ongoing collaborations and we expect to see more publications in the future!
-
-[![Crick Data Cahallenge](https://img.youtube.com/vi/VzwoGWMCY-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=VzwoGWMCY-U)
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/VzwoGWMCY-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
