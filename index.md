@@ -4,7 +4,7 @@ Crick Data Challenge #6 will take place on 11-13th October 2023, in person at th
 
 [Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for projects. 
 
-- Registration for Crick scientists is [available on the Crick intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-sign-form-2023) (Crick IT account required). External participants can register their interest to participate at [this link](https://forms.office.com/r/CHFWM2FB1q).
+- Registration for Crick scientists is [available on the Crick intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-sign-form-2023) (Crick IT account required). External participants can register their interest to participate at [this link](https://forms.office.com/r/CHFWM2FB1q). We can only host a limited number of external participants therefore applicants will be selected on a first come first served basis.
 
 
 #### How does it work?
