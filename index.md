@@ -2,9 +2,13 @@
 
 Crick Data Challenge #6 will take place on 11-13th October 2023, in person at the Francis Crick Institute, London.
 
+Registration for this year's edition of the Crick Data Challenge is closed. 
 [Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for projects. 
 
-- Registration for Crick scientists is [available on the Crick intranet](https://intranet.crick.ac.uk/webform/crick-data-challenge-sign-form-2023) (Crick IT account required). External participants can register their interest to participate at [this link](https://forms.office.com/r/CHFWM2FB1q). We can only host a limited number of external participants therefore applicants will be selected on a first come first served basis.
+Crick Data Challenge #6 is sponsored by [Seqera Labs](https://seqera.io/). Their support and commitment to scientific innovation and collaboration has been instrumental in shaping this unique experience.
+
+<!-- ![](images/seqera_labs_logo.png) -->
+<img src="images/seqera_labs_logo.png" width="500">
 
 
 #### How does it work?
