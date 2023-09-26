@@ -8,7 +8,7 @@ Registration for this year's edition of the Crick Data Challenge is closed.
 Crick Data Challenge #6 is sponsored by [Seqera Labs](https://seqera.io/). Their support and commitment to scientific innovation and collaboration has been instrumental in shaping this unique experience.
 
 <!-- ![](images/seqera_labs_logo.png) -->
-<img src="images/seqera_labs_logo.png" width="500">
+<img src="images/seqera_labs_logo.png" width="250">
 
 
 #### How does it work?
