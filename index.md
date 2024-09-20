@@ -1,6 +1,7 @@
 #### Crick Data Challenge #7 will take place on 16-18th October 2024 in-person at the Francis Crick Institute, London.
 
-Registration for this year's edition of the Crick Data Challenge is closed. 
+**[External participant sign-up form](https://forms.office.com/e/aKsigfLXhW)**
+
 [Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for future projects. 
 
 <!-- Crick Data Challenge #6 is sponsored by [Seqera Labs](https://seqera.io/). Their support and commitment to scientific innovation and collaboration has been instrumental in shaping this unique experience. -->
