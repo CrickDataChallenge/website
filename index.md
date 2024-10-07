@@ -4,12 +4,10 @@
 
 [Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for future projects. 
 
-<!-- Crick Data Challenge #6 is sponsored by [Seqera Labs](https://seqera.io/). Their support and commitment to scientific innovation and collaboration has been instrumental in shaping this unique experience. -->
+#### Sponsors
+Crick Data Challenge #7 is sponsored by [Seqera](https://seqera.io/). Their support and commitment to scientific innovation and collaboration has been instrumental in shaping this unique experience.
 
-<!-- ![](images/seqera_labs_logo.png) -->
-<!-- <img src="images/seqera_labs_logo.png" width="250"> -->
-
-**Project details will be released soon!**
+<img src="images/seqera_logo.webp" width="300">
 
 #### How does it work?
 
