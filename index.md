@@ -1,6 +1,6 @@
 #### Crick Data Challenge #7 will take place on 16-18th October 2024 in-person at the Francis Crick Institute, London.
 
-**[External participant sign-up form](https://forms.office.com/e/aKsigfLXhW)**
+**Participant sign-ups have now closed. Let the final preparations begin!**
 
 [Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for future projects. 
 
