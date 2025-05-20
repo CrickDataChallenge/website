@@ -39,7 +39,7 @@ Crick Data Challenge projects have contributed to scientific papers:
 
 * Van Maldegem, Febe, et al., (2021). Characterisation of tumour microenvironment remodelling following oncogene inhibition in preclinical studies with imaging mass cytometry. [Nature Communications](https://www.nature.com/articles/s41467-021-26214-x) (Crick Data Challenge #1) 
 * Wilkinson, K. A., et al., (2021). Antiretroviral Treatment-Induced Decrease in Immune Activation Contributes to Reduced Susceptibility to Tuberculosis in HIV-1/Mtb Co-infected Persons. [Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2021.645446/full) (Crick Data Challenge #2)
-* White, M.E., et al., (2022). OxoScan-MS: Oxonium ion scanning mass spectrometry facilitates plasma glycoproteomics in large scale. [Nature Biomedical Engineering](https://www.biorxiv.org/content/10.1101/2022.06.01.494393v1)  (Crick Data Challenge #3)
+* White, M.E., et al., (2023). Oxonium ion scanning mass spectrometry for large-scale plasma glycoproteomics. [Nature Biomedical Engineering](https://www.nature.com/articles/s41551-023-01067-5)  (Crick Data Challenge #3)
 
 Many more projects have seeded ongoing collaborations and we expect to see more publications in the future!
 
