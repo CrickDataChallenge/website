@@ -1,13 +1,10 @@
-#### Crick Data Challenge #7 will take place on 16-18th October 2024 in-person at the Francis Crick Institute, London.
+#### Crick Data Challenge #8 will take place on 12-14th November 2025 in-person at the Francis Crick Institute, London.
 
-**[External participant sign-up form](https://forms.office.com/e/aKsigfLXhW)**
+## Project Submissions are OPEN!
+**If you wish to submit a project, please use [this form](https://forms.office.com/e/GLXjYYQsj0). A participant sign-up will be open soon :)**
+
 
 [Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for future projects. 
-
-#### Sponsors
-Crick Data Challenge #7 is sponsored by [Seqera](https://seqera.io/). Their support and commitment to scientific innovation and collaboration has been instrumental in shaping this unique experience.
-
-<img src="images/seqera_logo.webp" width="300">
 
 #### How does it work?
 
@@ -19,7 +16,7 @@ Crick Data Challenge #7 is sponsored by [Seqera](https://seqera.io/). Their supp
 6. On day 3, each group gives a short wrap-up presentation on their approach to solving the problem and what they learned.
 
 The [video](https://www.youtube.com/watch?v=VzwoGWMCY-U) below will give you a glimpse of what the Crick Data Challenge is about!
-[![Crick Data Cahallenge](https://img.youtube.com/vi/VzwoGWMCY-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=VzwoGWMCY-U)
+[![Crick Data Challenge](https://img.youtube.com/vi/VzwoGWMCY-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=VzwoGWMCY-U)
 
 <!-- In the run up to the event in October, Crick scientists are encouraged to submit projects to us, and five projects are selected from a range of different Crick research groups.  -->
 
