@@ -1,14 +1,11 @@
-#### Crick Data Challenge #8 will take place on 12-14th November 2025 in-person at the Francis Crick Institute, London.
+# Crick Data Challenge #8 will take place on 12-14th November 2025 in-person at the Francis Crick Institute, London.
 
 ## Participant Sign-Ups are OPEN!
 **Sign up [here](https://forms.office.com/pages/responsepage.aspx?id=B3jtTq3rWkGnqZFwlH9OrmcUGRZ_lrNKheiI1y2BzMhURVhUVDNVODZJVzQ3TEZOVDgxV0dMVDlVMi4u&route=shorturl) before the 17th October 2025** <br>
 As a participant, you will join one of the various project submitted by Crick scientists. During a 2.5 day hackathon, you will work with 5-10 other participants to find a potential solution to the challenge presented.
 
-## Project Submissions are still open!
-**We still have space for PROJECT LEADS too. If you wish to submit a project, please use [this form](https://forms.office.com/e/GLXjYYQsj0).**
-
-
 [Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for future projects. 
+
 
 #### How does it work?
 
