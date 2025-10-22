@@ -1,15 +1,23 @@
 # Crick Data Challenge #8
 ### 12-14th November 2025 at the [Francis Crick Institute](https://share.google/vpChH6q9vZth9YaEs), London
 
+_Are you ready to take on a challenging data problem and apply your computational skills? Want to work as part of a team to explore new ways of analysing data? Want to connect with computational scientists with diverse backgounds and expertise who share a passion for solving problems and coding challenges? Are you a data scientist or software engineer who wants to learn more about a new area?_
 
-## Participant Sign-Ups are OPEN!
-**Sign up [here](https://forms.office.com/pages/responsepage.aspx?id=B3jtTq3rWkGnqZFwlH9OrmcUGRZ_lrNKheiI1y2BzMhURVhUVDNVODZJVzQ3TEZOVDgxV0dMVDlVMi4u&route=shorturl) before the 17th October 2025** <br>
-As a participant, you will join one of the various project submitted by Crick scientists. During a 2.5 day hackathon, you will work with 5-10 other participants to find a potential solution to the challenge presented.
+Join our 3-day hackathon and tackle one of the projects proposed by Crick scientists!
+
+
+### A sneak peak into this year's projects
+The projects for this year's event will be revealed during the _project pitch_ on the morning of the first day.
+We won't spoil the surprises, but get ready – this year's projects span from mitochondria, to super-resolution microscopy, to FitBits! Expect a mix of imaging, ,multi-omic, and sequencing analysis challenges that will test your creativity and coding skills in new ways. You might find yourself automating pipelines, uncovering hidden biological patterns through machine learning, or exploring new ways to visualise complex single-cell data. Whatever the challenge, this year's line-up offers a unique chance to collaborate, learn, and push the boundaries of data-driven biomedical research!
+
+
+### Participant Sign-Ups are now closed
+As a participant, you will join one of the various projects submitted by Crick scientists. You will work with 5-10 other participants to find a potential solution to the challenge presented.
 
 [Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for future projects. 
 
 
-#### How does it work?
+### How does it work?
 
 1. Crick scientists submit their projects to the data challenge. 
 2. The organising committee selects up to 5 hackathon-ready projects. 
