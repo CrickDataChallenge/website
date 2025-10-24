@@ -23,10 +23,10 @@ Event organisers may take action to redress anything designed to, or with the cl
 
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Harassment and other code of conduct violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place.
 
-If you are happy to be identified then the first port of call is to message either Martin Jones or Charlotte Capitanchik on our Slack workspace. We will be happy to speak to you in more detail.
+*   **Identified Report:** The first port of call is to message either Sara Salgueiro Torres, Georgia Whitton, or Elias Copin on our Slack workspace. We will be happy to speak to you in more detail.
+*   **Anonymous Report:** You can make an anonymous report using our [online form](https://forms.office.com/e/XAagkLK4SD)
 
-If you prefer you can make an anonymous or personal report at any time using the form [here](https://crickdatachallenge.wufoo.com/forms/z12wb63z02t81d1/).
-We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
+**Our Promise:** All reports, whether identified or anonymous, will be taken seriously and investigated promptly and fairly. We will respect your confidentiality. We cannot follow up on an anonymous report directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
 
-
+---
 This code of conduct is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
