@@ -14,7 +14,7 @@ We won't spoil the surprises, but get ready – this year's projects span from m
 ### Participant Sign-Ups are now closed
 As a participant, you will join one of the various projects submitted by Crick scientists. You will work with 5-10 other participants to find a potential solution to the challenge presented.
 
-[Get in touch](mailto:challenge-data@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for future projects. 
+[Get in touch](mailto:data-challenge@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for future projects. 
 
 
 ### How does it work?
