@@ -54,7 +54,7 @@ Many more projects have seeded ongoing collaborations and we expect to see more 
 
 <!-- For more information about how the event works, please check out our introductory slides from [Data Challenge #2](https://docs.google.com/presentation/d/1Ey5_b0nZZoQQO_7Mdljbz7ckRt1TbFOYxzhY6hWwFMc/edit?usp=sharing). -->
 
-If you have any questions at all, please email [challenge-data@crick.ac.uk](mailto:challenge-data@crick.ac.uk) and we will get back to you.
+If you have any questions at all, please email [challenge-data@crick.ac.uk](mailto:data-challenge@crick.ac.uk) and we will get back to you.
 
 All attendees at our events must adhere to our [code of conduct](code-of-conduct.md).
 
