@@ -5,6 +5,11 @@ _Are you ready to take on a challenging data problem and apply your computationa
 
 Join our 3-day hackathon and tackle one of the projects proposed by Crick scientists!
 
+This year's Data Challenge is sponsored by [Seqera Labs](https://seqera.io/). _Seqera_ is the driving force behind Nextflow, MultiQC, and the Seqera Platform. Their support and commitment to scientific innovation and collaboration has been instrumental in shaping this unique experience.
+
+<!-- ![](images/seqera_labs_logo.png) -->
+<img src="images/seqera_labs_logo.png" width="250">
+
 
 ### A sneak peak into this year's projects
 The projects for this year's event will be revealed during the _project pitch_ on the morning of the first day.
