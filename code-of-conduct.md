@@ -23,7 +23,7 @@ Event organisers may take action to redress anything designed to, or with the cl
 
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Harassment and other code of conduct violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place.
 
-*   **Identified Report:** The first port of call is to message either Sara Salgueiro Torres, Georgia Whitton, or Elias Copin on our Slack workspace. We will be happy to speak to you in more detail.
+*   **Identified Report:** The first port of call is to message either Sara Salgueiro Torres, Georgia Whitton, Rebecca Walker, or Ananya Bhalla on our Slack workspace. We will be happy to speak to you in more detail.
 *   **Anonymous Report:** You can make an anonymous report using our [online form](https://forms.office.com/e/XAagkLK4SD)
 
 **Our Promise:** All reports, whether identified or anonymous, will be taken seriously and investigated promptly and fairly. We will respect your confidentiality. We cannot follow up on an anonymous report directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
