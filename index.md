@@ -1,23 +1,18 @@
-# Crick Data Challenge #8
-### 12-14th November 2025 at the [Francis Crick Institute](https://share.google/vpChH6q9vZth9YaEs), London
+# Crick Data Challenge #9
+### 6th & 11th - 13th November 2026 at the [Francis Crick Institute](https://share.google/vpChH6q9vZth9YaEs), London
 
 _Are you ready to take on a challenging data problem and apply your computational skills? Want to work as part of a team to explore new ways of analysing data? Want to connect with computational scientists with diverse backgounds and expertise who share a passion for solving problems and coding challenges? Are you a data scientist or software engineer who wants to learn more about a new area?_
 
-Join our 3-day hackathon and tackle one of the projects proposed by Crick scientists!
-
-This year's Data Challenge is sponsored by [Seqera Labs](https://seqera.io/). _Seqera_ is the driving force behind Nextflow, MultiQC, and the Seqera Platform. Their support and commitment to scientific innovation and collaboration has been instrumental in shaping this unique experience.
-
-<!-- ![](images/seqera_labs_logo.png) -->
-<img src="images/seqera_labs_logo.png" width="250">
+Join our 4-day hackathon and tackle one of the projects proposed by Crick scientists!
 
 
 ### A sneak peak into this year's projects
-The projects for this year's event will be revealed during the _project pitch_ on the morning of the first day.
-We won't spoil the surprises, but get ready – this year's projects span from mitochondria, to super-resolution microscopy, to FitBits! Expect a mix of imaging, ,multi-omic, and sequencing analysis challenges that will test your creativity and coding skills in new ways. You might find yourself automating pipelines, uncovering hidden biological patterns through machine learning, or exploring new ways to visualise complex single-cell data. Whatever the challenge, this year's line-up offers a unique chance to collaborate, learn, and push the boundaries of data-driven biomedical research!
+We are currently recruiting for projects! The projects for this year's event will be revealed during the _project pitch_ on the morning of the first day.
+We won't spoil the surprises, but get ready for challenges that will test your creativity and coding skills in new ways. You might find yourself automating pipelines, uncovering hidden biological patterns through machine learning, or exploring new ways to visualise complex single-cell data. Whatever the challenge, this year's line-up offers a unique chance to collaborate, learn, and push the boundaries of data-driven biomedical research!
 
 
-### Participant Sign-Ups are now closed
-As a participant, you will join one of the various projects submitted by Crick scientists. You will work with 5-10 other participants to find a potential solution to the challenge presented.
+### Participant Sign-Ups will open mid-September
+As a participant, you will join one of the various projects submitted by Crick scientists. You will work in a team with 5-10 other participants to find a potential solution to the challenge presented.
 
 [Get in touch](mailto:data-challenge@crick.ac.uk) if you would like to ask any questions about the event or would like to discuss ideas for future projects. 
 
@@ -25,16 +20,14 @@ As a participant, you will join one of the various projects submitted by Crick s
 ### How does it work?
 
 1. Crick scientists submit their projects to the data challenge. 
-2. The organising committee selects up to 5 hackathon-ready projects. 
+2. The organising committee selects up to 6 projects. 
 3. Data scientists (internal and external) sign up to the event. They're given a clue about the theme of each project, but no spoilers. 
-4. On day 1, project leaders introduce their problem and take questions from participants, after which participants form teams. 
-5. Teams go to their private space to collaborate and hack away! Every day ends with a social activity. 
-6. On day 3, each group gives a short wrap-up presentation on their approach to solving the problem and what they learned.
+4. **Launch Day** (*Friday, 6th November*) – project leads pitch their ideas to build a team of data scientists who will work on the project during the Hacking Days. Leads, mentors, and hackers will have the chance to connect over lunch and participate in dedicated workshops in preparation for the event. We’ll end the day with the **Crick Pub Quiz Challenge** to break the ice and build the much-needed collaborative atmosphere!
+5. **Hack Days** (*Wed, 11th - Fri, 13th November*) – here’s where the magic happens! Teams work on their dedicated project for 3 uninterrupted days. On the last day, all teams will present their progress, and we will host a closing reception to celebrate new collaborations!
 
 The [video](https://www.youtube.com/watch?v=VzwoGWMCY-U) below will give you a glimpse of what the Crick Data Challenge is about!
 [![Crick Data Challenge](https://img.youtube.com/vi/VzwoGWMCY-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=VzwoGWMCY-U)
 
-<!-- In the run up to the event in October, Crick scientists are encouraged to submit projects to us, and five projects are selected from a range of different Crick research groups.  -->
 
 Examples of previous projects include:
 
@@ -46,7 +39,7 @@ Examples of previous projects include:
 * Implementation of a streamlined pipeline for analysing highly complex, multi-dimensional imaging data.  
 
 
-Crick Data Challenge projects have contributed to scientific papers: 
+### Crick Data Challenge projects have contributed to scientific papers: 
 
 * Van Maldegem, Febe, et al., (2021). Characterisation of tumour microenvironment remodelling following oncogene inhibition in preclinical studies with imaging mass cytometry. [Nature Communications](https://www.nature.com/articles/s41467-021-26214-x) (Crick Data Challenge #1) 
 * Wilkinson, K. A., et al., (2021). Antiretroviral Treatment-Induced Decrease in Immune Activation Contributes to Reduced Susceptibility to Tuberculosis in HIV-1/Mtb Co-infected Persons. [Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2021.645446/full) (Crick Data Challenge #2)
@@ -59,6 +52,8 @@ Many more projects have seeded ongoing collaborations and we expect to see more 
 
 <!-- For more information about how the event works, please check out our introductory slides from [Data Challenge #2](https://docs.google.com/presentation/d/1Ey5_b0nZZoQQO_7Mdljbz7ckRt1TbFOYxzhY6hWwFMc/edit?usp=sharing). -->
 
+
+
 If you have any questions at all, please email [data-challenge@crick.ac.uk](mailto:data-challenge@crick.ac.uk) and we will get back to you.
 
 All attendees at our events must adhere to our [code of conduct](code-of-conduct.md).
@@ -68,10 +63,12 @@ All attendees at our events must adhere to our [code of conduct](code-of-conduct
 ---
 
 ### Thoughts from previous participants...
- 
+
+
+
 **_Lucia Prieto-Godino, Group leader_**
 
->“The Crick Data Challenge is a great initiative; as soon as I heard about it I decided to join and encouraged my students to do so. We are lucky to work in such a multidisciplinary environment at the crick. Each discipline has classical ways to analyse data and we often do not go beyond these. However, by looking at our data from a different perspective we might gain novel biological insights.”
+>“The Crick Data Challenge is a great initiative; as soon as I heard about it I decided to join and encouraged my students to do so. We are lucky to work in such a multidisciplinary environment at the Crick. Each discipline has classical ways to analyse data and we often do not go beyond these. However, by looking at our data from a different perspective we might gain novel biological insights.”
 
 **_Febe van Maldegem, Downward lab_**
 
