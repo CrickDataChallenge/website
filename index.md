@@ -5,6 +5,9 @@ _Are you ready to take on a challenging data problem and apply your computationa
 
 Join our 4-day hackathon and tackle one of the projects proposed by Crick scientists!
 
+**This year's event is funded by the UKRI-funded network [DisCouRSE](https://discourse-network.github.io/).**
+
+
 
 ### A sneak peak into this year's projects
 We are currently recruiting for projects! The projects for this year's event will be revealed during the _project pitch_ on the morning of the first day.
