@@ -58,7 +58,7 @@ If you have any questions at all, please email [data-challenge@crick.ac.uk](mail
 
 All attendees at our events must adhere to our [code of conduct](code-of-conduct.md).
 
-![collage of past events](images/image1.png)
+![collage of past events](images/cdc2025_collage.png)
 
 ---
 
