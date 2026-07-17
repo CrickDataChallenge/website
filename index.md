@@ -73,13 +73,11 @@ Many more projects have seeded ongoing collaborations and we expect to see more 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/VzwoGWMCY-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 
-<!-- For more information about how the event works, please check out our introductory slides from [Data Challenge #2](https://docs.google.com/presentation/d/1Ey5_b0nZZoQQO_7Mdljbz7ckRt1TbFOYxzhY6hWwFMc/edit?usp=sharing). -->
-
 If you have any questions at all, please email [data-challenge@crick.ac.uk](mailto:data-challenge@crick.ac.uk) and we will get back to you.
 
 All attendees at our events must adhere to our [code of conduct](code-of-conduct.md).
 
-![collage of past events](images/image1.png)
+![collage of past events](images/cdc2025_collage.png)
 
 ---
 
@@ -103,8 +101,6 @@ All attendees at our events must adhere to our [code of conduct](code-of-conduct
 If you have any questions at all, please email [data-challenge@crick.ac.uk](mailto:data-challenge@crick.ac.uk) and we will get back to you.
 
 All attendees at our events must adhere to our [code of conduct](code-of-conduct.md).
-
-![collage of past events](images/cdc2025_collage.png)
 
 
 ---
