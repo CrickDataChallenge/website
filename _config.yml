@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 name: Crick Data Challenge
-title: "Crick Data Challenge 2025"
-description: Hackathon-style event fostering collaborations between wet lab biologists and data scientists. Hosted at the Francis Crick Institute.
+title: "Crick Data Challenge 2026"
+description: Multidisciplinary, inter-institutional, hackathon-style event fostering collaborations between wet lab biologists and data scientists. Hosted at the Francis Crick Institute.
 logo: images/dataChallengeLogo-01.png
 show_downloads: false
 gems:
