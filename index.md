@@ -39,14 +39,17 @@ The [video](https://www.youtube.com/watch?v=VzwoGWMCY-U) below will give you a g
 
 #### 🤝 Teamwork, collaboration, & networking
 > "I appreciated the social aspect of the event. It created valuable opportunities to meet and connect with people from different backgrounds, which made the whole experience even more enriching."
+
 > "Getting to connect with enthusiastiuc data scientists. Everyone wanted to throw themselves into the challenge and most participants wanted to continue collaboration after the event."
 
 #### 💡 Building new skills
 > "Building new skills and meeting others at the Crick! It's a big organization and the CDC made it feel smaller."
+
 > "Opportunity for students to try a collaborative environment to solve a common challenge."
 
 #### 📚 Project variety 
 > "I really enjoyed the structure [...]. The way the event was organised made it easy to follow, and the range of available projects covered many different directions. This was especially great because it meant that even participants without a strong biology background could still find plenty of suitable options."
+
 > "Variety of project topics and openness and friendliness of the participants and organisers."
 
 ---
@@ -92,7 +95,7 @@ All attendees at our events must adhere to our [code of conduct](code-of-conduct
 **_Laabiah Wasim, Tolar lab_**
 >“As a wet-lab biologist, the Crick Data Challenge provided a unique opportunity to investigate an explorative question I had, but didn’t have the bioinformatics/machine-learning skills to answer. I got to work with such brilliant individuals and going back and forth with the idea as a team accelerated its development into a project we’re hoping to continue working on. It all depends on assembling the right team of individuals, which the Crick Data Challenge provided the perfect place for!”
 
-**_Lucia Prieto-Godino, Group leader_**
+**_Lucia Prieto-Godino, group leader_**
 >“The Crick Data Challenge is a great initiative; as soon as I heard about it I decided to join and encouraged my students to do so. We are lucky to work in such a multidisciplinary environment at the Crick. Each discipline has classical ways to analyse data and we often do not go beyond these. However, by looking at our data from a different perspective we might gain novel biological insights.”
 
 ---
