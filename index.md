@@ -13,9 +13,9 @@ Join our **inter-institutional** 4-day hackathon-style event and tackle one of t
 - 🧪[A sneak peak into this year's projects](#-a-sneak-peak-into-this-years-projects)
 - 📝 [Participant sign-ups are now OPEN](#-participant-sign-ups-are-now-open)
 - ⚙️ [How does it work?](#-how-does-it-work)
-- 💭 [Thoughts on past CDC attendees](#what-previous-participants-loved-most-about-the-data-challenge)
+- 💭 [Thoughts from past CDC attendees](#what-previous-participants-loved-most-about-the-data-challenge)
 - 👥 [Thoughts from previous project leads](#-thoughts-from-previous-project-leads)
-- 🔬 [Examples of previous projects](#examples-of-previous-projects-include)
+- 🔬 [Examples of previous projects](#-examples-of-previous-projects-include)
 - 🧾 [Projects that contributed to scientific papers](#-crick-data-challenge-projects-have-contributed-to-scientific-papers)
 - ❓ [Contact details](#-questions-get-in-touch)
 
@@ -70,7 +70,7 @@ The [video](https://www.youtube.com/watch?v=VzwoGWMCY-U) below will give you a g
 ---
 
 
-## 🔬Examples of previous projects include:
+## 🔬 Examples of previous projects include:
 
 * Integration of multiomic datasets to identify biomarkers for non-invasive, early detection of cancer. 
 * Creation of a program with a user interface to design antisense oligonucleotides. 
