@@ -12,11 +12,11 @@ Join our **inter-institutional** 4-day hackathon-style event and tackle one of t
 ### Quick navigation 
 - 🧪[A sneak peak into this year's projects](#-a-sneak-peak-into-this-years-projects)
 - 📝 [Participant sign-ups are now OPEN](#-participant-sign-ups-are-now-open)
-- ⚙️ [How does it work?](%EF%B8%8F-how-does-it-work)
+- ⚙️ [How does it work?](%-how-does-it-work)
 - 💭 [Thoughts on past CDC attendees](#what-previous-participants-loved-most-about-the-data-challenge)
 - 👥 [Thoughts from previous project leads](#-thoughts-from-previous-project-leads)
 - 🔬 [Examples of previous projects](#examples-of-previous-projects-include)
-- 🧾 [Crick Data Challenge projects that contributed to scientific papers](#-crick-data-challenge-projects-have-contributed-to-scientific-papers)
+- 🧾 [Projects that contributed to scientific papers](#-crick-data-challenge-projects-have-contributed-to-scientific-papers)
 - ❓ [Contact details](#-questions-get-in-touch)
 
 
@@ -50,7 +50,7 @@ The [video](https://www.youtube.com/watch?v=VzwoGWMCY-U) below will give you a g
 
 ---
 
-## What previous participants loved most about the Data Challenge:
+## 💭 What previous participants loved most about the Data Challenge:
 
 #### 🤝 Teamwork, collaboration, & networking
 > "I appreciated the social aspect of the event. It created valuable opportunities to meet and connect with people from different backgrounds, which made the whole experience even more enriching."
