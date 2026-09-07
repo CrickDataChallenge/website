@@ -7,6 +7,7 @@ _Are you ready to take on a challenging data problem and apply your computationa
 Join our **inter-institutional** 4-day hackathon-style event and tackle one of the projects proposed by Crick scientists!
 
 > **This year's event is funded by the UKRI-funded network [DisCouRSE](https://discourse-network.github.io/projects/1-49-crick-data-challenge/).**
+![DisCouRSE network logo](../images/DisCouRSE-Logo-Light.svg)
 
 ---
 ### Quick navigation 
