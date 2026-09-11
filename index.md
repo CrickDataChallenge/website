@@ -34,7 +34,9 @@ Whatever the challenge, this year's line-up offers a unique chance to collaborat
 ## 📝 Participant sign-ups are now OPEN
 As a participant, you will join one of the various projects submitted by Crick scientists. You will work in a team with 5-10 other participants to find a potential solution to the challenge presented.
 
-Applications are open for academic institutions in the London area. Apply now via [this form](https://forms.cloud.microsoft/e/K5m5V6XCpP) before the **12th October, 12:00**.
+Applications are open for academic institutions in the London area. Apply by the **12th October, 12:00**:
+* [Non-Crick applicants](https://forms.cloud.microsoft/e/K5m5V6XCpP)
+* [Crick applicants](https://forms.cloud.microsoft/e/U7uQywufM2)
 
 [Get in touch](mailto:data-challenge@crick.ac.uk) if you would like to ask any questions about the event. 
 
