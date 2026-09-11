@@ -14,7 +14,7 @@ Join our **inter-institutional** 4-day hackathon-style event and tackle one of t
 ---
 ### Quick navigation 
 - 🧪[A sneak peak into this year's projects](#-a-sneak-peak-into-this-years-projects)
-- 📝 [Participant sign-ups are now OPEN](#-participant-sign-ups-are-now-open)
+- 📝 [Participant applications](#-participant-sign-ups-are-now-open)
 - ⚙️ [How does it work?](#-how-does-it-work)
 - 💭 [Thoughts from past CDC attendees](#what-previous-participants-loved-most-about-the-data-challenge)
 - 👥 [Thoughts from previous project leads](#-thoughts-from-previous-project-leads)
